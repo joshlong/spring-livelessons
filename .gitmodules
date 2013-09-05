@@ -1,0 +1,3 @@
+[submodule "the-spring-rest-stack"]
+	path = the-spring-rest-stack
+	url = git@github.com:joshlong/the-spring-rest-stack.git
