@@ -1,3 +1,6 @@
 [submodule "the-spring-rest-stack"]
 	path = the-spring-rest-stack
 	url = git@github.com:joshlong/the-spring-rest-stack.git
+[submodule "a-walking-tour-of-all-of-springdom"]
+	path = a-walking-tour-of-all-of-springdom
+	url = git@github.com:joshlong/a-walking-tour-of-all-of-springdom.git
